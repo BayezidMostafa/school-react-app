@@ -7,7 +7,7 @@
   
   👉 **My Project Have A Unique Name With NavBar, Header Banner, Content Area**
   <br/>
-  👉 I Used React Router To Navigate Hassle Free! It's Really Faster Than What I Thought! **
+  👉 **I Used React Router To Navigate Hassle Free! It's Really Faster Than What I Thought!**
   <br/>
   👉 I Created Four Different Types Of Quiz Topic. You Can Try! It's Really Helpful For A Developer! **
   <br/>
